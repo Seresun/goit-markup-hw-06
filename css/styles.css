@@ -135,7 +135,7 @@ a {
 .blacklogo:hover {
   color: #404bbf;
 }
-/* 
+
 .list-info-first {
   font-weight: 500;
   font-size: 16px;
@@ -181,7 +181,7 @@ a {
 }
 .mail-list-info:focus {
   color: #404bbf;
-} */
+} 
 
 /* FIRST SECTION  AKA HERO*/
 
@@ -968,7 +968,7 @@ a {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("../images/tab-img/bg/hero-bg-tab-x1.jpg");
+      url("../images/hero-tabl-1x.jpg");
     max-width: 768px;
     padding: 112px 0 112px;
   }
@@ -1125,7 +1125,7 @@ a {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("../images/desk-img/bg/hero-bg-desk-x1.jpg");
+      url("../images/hero.jpg");
     max-width: 1440px;
     padding: 188px 0 188px;
   }
